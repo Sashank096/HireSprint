@@ -1,0 +1,10 @@
+GRANT SELECT, INSERT, UPDATE, DELETE ON public.profiles TO authenticated;
+GRANT SELECT, INSERT ON public.skills TO authenticated;
+GRANT SELECT, INSERT, UPDATE, DELETE ON public.profile_skills TO authenticated;
+GRANT SELECT, INSERT, UPDATE, DELETE ON public.resumes TO authenticated;
+GRANT SELECT ON public.jobs TO authenticated;
+GRANT SELECT, INSERT, UPDATE, DELETE ON public.saved_searches TO authenticated;
+GRANT SELECT, INSERT, UPDATE, DELETE ON public.applications TO authenticated;
+GRANT SELECT, INSERT, DELETE ON public.application_notes TO authenticated;
+GRANT SELECT, INSERT, DELETE ON public.interview_prep TO authenticated;
+GRANT SELECT, INSERT, DELETE ON public.activity_log TO authenticated;

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#11152B"/><stop offset="1" stop-color="#23204F"/></linearGradient>
+    <linearGradient id="score" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#8474F5"/><stop offset="1" stop-color="#35D6C7"/></linearGradient>
+  </defs>
+  <rect width="1200" height="520" rx="26" fill="url(#bg)"/>
+  <circle cx="1032" cy="111" r="210" fill="#6352D8" fill-opacity=".1"/>
+  <text x="54" y="69" fill="#39D4C8" font-family="Inter,Segoe UI,sans-serif" font-size="11" font-weight="700" letter-spacing="2.4">JOB MATCH, WITH CONTEXT</text>
+  <text x="54" y="111" fill="#FFF" font-family="Inter,Segoe UI,sans-serif" font-size="30" font-weight="700">A score is a start. The reasons matter.</text>
+  <text x="54" y="139" fill="#AEB4D2" font-family="Inter,Segoe UI,sans-serif" font-size="13">Explore the skill overlap before you decide whether to pursue a role.</text>
+  <rect x="54" y="174" width="1092" height="295" rx="18" fill="#F8F9FF"/>
+  <rect x="78" y="198" width="654" height="246" rx="13" fill="#FFF" stroke="#E7E8F0"/>
+  <circle cx="110" cy="235" r="19" fill="#EDEBFF"/>
+  <path d="M102 240v-10l8-6 8 6v10h-5v-6h-6v6h-5Z" fill="#685CE0"/>
+  <text x="143" y="231" fill="#252946" font-family="Inter,Segoe UI,sans-serif" font-size="15" font-weight="700">Senior Frontend Engineer</text>
+  <text x="143" y="250" fill="#80859D" font-family="Inter,Segoe UI,sans-serif" font-size="9">Northstar Labs · Remote · Full-time</text>
+  <rect x="588" y="216" width="119" height="28" rx="8" fill="#EDF9F6"/>
+  <text x="606" y="234" fill="#278F82" font-family="Inter,Segoe UI,sans-serif" font-size="8" font-weight="700">Strong skills overlap</text>
+  <path d="M101 273h606" stroke="#ECECF3"/>
+  <text x="101" y="300" fill="#252946" font-family="Inter,Segoe UI,sans-serif" font-size="11" font-weight="700">Skills compared with your primary resume</text>
+  <text x="101" y="325" fill="#727790" font-family="Inter,Segoe UI,sans-serif" font-size="9" font-weight="600">REQUIRED</text>
+  <rect x="101" y="337" width="116" height="27" rx="8" fill="#E4F8F2"/><circle cx="117" cy="350" r="5" fill="#26AD82"/><text x="129" y="354" fill="#267B63" font-family="Inter,Segoe UI,sans-serif" font-size="8" font-weight="600">React</text>
+  <rect x="225" y="337" width="132" height="27" rx="8" fill="#E4F8F2"/><circle cx="241" cy="350" r="5" fill="#26AD82"/><text x="253" y="354" fill="#267B63" font-family="Inter,Segoe UI,sans-serif" font-size="8" font-weight="600">TypeScript</text>
+  <rect x="365" y="337" width="119" height="27" rx="8" fill="#FFF0F1"/><circle cx="381" cy="350" r="5" fill="#E86D7A"/><text x="393" y="354" fill="#A94B59" font-family="Inter,Segoe UI,sans-serif" font-size="8" font-weight="600">GraphQL</text>
+  <rect x="101" y="379" width="118" height="27" rx="8" fill="#F1F0FF"/><text x="101" y="422" fill="#727790" font-family="Inter,Segoe UI,sans-serif" font-size="9" font-weight="600">PREFERRED</text>
+  <rect x="225" y="379" width="119" height="27" rx="8" fill="#E4F8F2"/><circle cx="241" cy="392" r="5" fill="#26AD82"/><text x="253" y="396" fill="#267B63" font-family="Inter,Segoe UI,sans-serif" font-size="8" font-weight="600">Accessibility</text>
+  <rect x="352" y="379" width="112" height="27" rx="8" fill="#FFF0F1"/><circle cx="368" cy="392" r="5" fill="#E86D7A"/><text x="380" y="396" fill="#A94B59" font-family="Inter,Segoe UI,sans-serif" font-size="8" font-weight="600">Next.js</text>
+  <rect x="761" y="198" width="361" height="246" rx="13" fill="#202542"/>
+  <text x="786" y="230" fill="#FFF" font-family="Inter,Segoe UI,sans-serif" font-size="12" font-weight="700">Your match snapshot</text>
+  <circle cx="941" cy="309" r="59" stroke="#3B4262" stroke-width="10"/>
+  <circle cx="941" cy="309" r="59" stroke="url(#score)" stroke-width="10" stroke-linecap="round" stroke-dasharray="319 371" transform="rotate(-90 941 309)"/>
+  <text x="915" y="313" fill="#FFF" font-family="Inter,Segoe UI,sans-serif" font-size="28" font-weight="700">86</text>
+  <text x="922" y="330" fill="#AEB4D2" font-family="Inter,Segoe UI,sans-serif" font-size="8">OUT OF 100</text>
+  <rect x="787" y="386" width="309" height="1" fill="#3B4262"/>
+  <circle cx="796" cy="409" r="4" fill="#31C896"/><text x="808" y="412" fill="#CDD2E5" font-family="Inter,Segoe UI,sans-serif" font-size="8">Skills that match</text>
+  <circle cx="927" cy="409" r="4" fill="#EC7382"/><text x="939" y="412" fill="#CDD2E5" font-family="Inter,Segoe UI,sans-serif" font-size="8">Gaps to review</text>
+  <text x="54" y="496" fill="#9DA3C6" font-family="Inter,Segoe UI,sans-serif" font-size="9">COMPARE  ·  UNDERSTAND  ·  DECIDE FOR YOURSELF</text>
+</svg>
